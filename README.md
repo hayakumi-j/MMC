@@ -9,6 +9,10 @@ For more information, see the references.
 
 3. Investigation of multiple-dynein transport of melanosomes by non-invasive force measurement using fluctuation unit. S. Hasegawa, T. Sagawa, K. Ikeda, Y. Okada, K. Hayashi, Scientific Reports 9:5099 (2019). https://doi.org/10.1038/s41598-019-41458-w
 
+4. Application of the fluctuation theorem to motor proteins: from F1-ATPase to axonal cargo transport by kinesin and dynein. K. Hayashi
+Biophysical Reviews 10:1311-1321 (2018). https://doi.org/10.1007/s12551-018-0440-5
+
+
 # Install
 under construction
 
