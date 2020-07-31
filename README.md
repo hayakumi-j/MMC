@@ -26,6 +26,3 @@ under construction
 Kumiko Hayashi, Ph. D., Associate Professor
 Department of Applied Physics, School of Engineering, Tohoku University 
 
-email: kumiko@camp.apph.tohoku.ac.jp
-
-
