@@ -17,3 +17,11 @@ under construction
 
 2. Japan Science and Technology Agency (JST), Precursory Research for Embryonic Science and Technology (PRESTO) Grant No. grant No. JPMJPR1877.
 
+# Developer
+
+Kumiko Hayashi, Ph. D., Associate Professor
+Department of Applied Physics, School of Engineering, Tohoku University 
+
+email: kumiko@camp.apph.tohoku.ac.jp
+
+
