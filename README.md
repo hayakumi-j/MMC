@@ -3,6 +3,5 @@ Molecular Motor Counter is a software for statistical analysis of organelle tras
 For more information, see the references. 
 
 # References
-1. Application of the fluctuation theorem for non-invasive force measurement in living neuronal axons.
-   K. Hayashi, Y. Tsuchizawa, M. Iwaki, Y. Okada
-   Molecular Biology of the Cell 29:3017-3025 (2018).
+
+1. Application of the fluctuation theorem for non-invasive force measurement in living neuronal axons. K. Hayashi, Y. Tsuchizawa, M. Iwaki, Y. Okada, Molecular Biology of the Cell 29:3017-3025 (2018). https://doi.org/10.1091/mbc.E18-01-0022
