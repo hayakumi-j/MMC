@@ -14,7 +14,7 @@ Biophysical Reviews 10:1311-1321 (2018). https://doi.org/10.1007/s12551-018-0440
 
 
 # Instruction
-See the documentation.
+See MANUAL.
 
 # Finantial supports
 1. Japan Agency for Medical Research and Development (AMED), Advanced Research & Development Program for Medical Innovation (PRIME) Grant No. JP18gm5810009.
