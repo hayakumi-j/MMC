@@ -12,6 +12,8 @@ For more information, see the references.
 4. Application of the fluctuation theorem to motor proteins: from F1-ATPase to axonal cargo transport by kinesin and dynein. K. Hayashi
 Biophysical Reviews 10:1311-1321 (2018). https://doi.org/10.1007/s12551-018-0440-5
 
+5. Effects of dynein inhibitor on the number of motor proteins transporting synaptic cargos. K. Hayashi, M. G. Miyamoto, S. Niwa, Biophysical Journal (2021). https://doi.org/10.1016/j.bpj.2021.02.018
+
 
 # Instruction
 See MANUAL.
